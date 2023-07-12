@@ -3,8 +3,8 @@
     {
       "id": 1,
       "name": "QMK Consulting",
-      "description": "Consultoria de TI",
-      "services": "Varios serviços",
+      "description": "Empresa de Consultoria em Tecnologia e Negócios. Fazemos uma análise sistemática em todas as áreas da sua empresa para corrigir os pontos fracos e alavancar os fortes.",
+      "services": "&#x2022; Software House<br /> &#x2022; Generative AI / Chatbots <br /> &#x2022; Business Intelligence <br/> &#x2022; Data Analytics",
       "phoneNumber": "555-555",
       "contactName": "Leo",
       "address": "rua teste"    
