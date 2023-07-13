@@ -14,7 +14,7 @@
       "id": 2,
       "name": "Grupo Focus",
       "description": "Empresa de Contabilidade",
-      "services": "Contabilidade em geral",
+      "services": "Contabilidade - Escrita Fiscal - Departamento Pessoal - Parcelamento de Tributos - Abertura/Constituição  de novos Supermercados",
       "phoneNumber": "555-555",
       "contactName": "Alcir",
       "address": "rua teste" ,
@@ -22,9 +22,9 @@
     },
     {
       "id": 3,
-      "name": "Empresa Teste",
-      "description": "Empresa de Teste",
-      "services": "Servicos teste",
+      "name": "Fomento Digital",
+      "description": "Desenvolvemos o seu site, Aplicatico, Sistema, Plataforma ou Área de Membros usando Tecnologia Inteligente e Aceleradora.",
+      "services": "Sistemas EAD e App Web - Websites e E-Commerce - Estratégia de MKT - Gestão de Tráfego Pago",
       "phoneNumber": "555-555",
       "contactName": "Joao",
       "address": "rua teste",
@@ -32,13 +32,13 @@
     },
     {
       "id": 4,
-      "name": "Empresa Teste 2",
-      "description": "Empresa de Teste 2",
-      "services": "Servicos teste",
+      "name": "Tecsys - Soluções em Energia",
+      "description": "Nobreaks e serviços em manutenção inteligentepara que a sua empresa tenha a energia garantida. Conte com a gente.",
+      "services": "Serviços de Elétrica - Manutenção de Nobreaks",
       "phoneNumber": "555-555",
       "contactName": "Joao",
       "address": "rua teste",
-      "logo": ""
+      "logo": "https://tecsys.com.br/assets/images/logo-verde-transparente.webp"
     },
     {
       "id": 5,
