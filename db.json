@@ -7,7 +7,8 @@
       "services": "Software House - Generative AI / Chatbots - Business Intelligence - Data Analytics",
       "phoneNumber": "555-555",
       "contactName": "Leo",
-      "address": "rua teste"    
+      "address": "rua teste",
+      "logo": "https://avatars.githubusercontent.com/u/32936332?s=400&u=46002b8423fb8ff3646cc2dec1e72b7577e399a4&v=4"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "services": "Contabilidade em geral",
       "phoneNumber": "555-555",
       "contactName": "Alcir",
-      "address": "rua teste"    
+      "address": "rua teste" ,
+      "logo": "http://www.focuscontabil.com/wp-content/uploads/2017/03/logo-01-retina.png"
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "services": "Servicos teste",
       "phoneNumber": "555-555",
       "contactName": "Joao",
-      "address": "rua teste"    
+      "address": "rua teste",
+      "logo": ""
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "services": "Servicos teste",
       "phoneNumber": "555-555",
       "contactName": "Joao",
-      "address": "rua teste"    
+      "address": "rua teste",
+      "logo": ""
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "services": "Servicos teste",
       "phoneNumber": "555-555",
       "contactName": "Joao",
-      "address": "rua teste"    
+      "address": "rua teste",
+      "logo": ""
     }
   ],
   "comments": [
