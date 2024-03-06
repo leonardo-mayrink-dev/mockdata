@@ -19,26 +19,6 @@
       "contactName": "Alcir",
       "address": "rua teste" ,
       "logo": "http://www.focuscontabil.com/wp-content/uploads/2017/03/logo-01-retina.png"
-    },
-    {
-      "id": 3,
-      "name": "Fomento Digital",
-      "description": "Desenvolvemos o seu site, Aplicatico, Sistema, Plataforma ou Área de Membros usando Tecnologia Inteligente e Aceleradora.",
-      "services": "Sistemas EAD e App Web - Websites e E-Commerce - Estratégia de MKT - Gestão de Tráfego Pago",
-      "phoneNumber": "555-555",
-      "contactName": "Joao",
-      "address": "rua teste",
-      "logo": "https://fomentodigital.com.br/wp-content/uploads/2021/06/logo-tipo-novo-FD-laranja-1024x168.png"
-    },
-    {
-      "id": 4,
-      "name": "Tecsys - Soluções em Energia",
-      "description": "Nobreaks e serviços em manutenção inteligentepara que a sua empresa tenha a energia garantida. Conte com a gente.",
-      "services": "Serviços de Elétrica - Manutenção de Nobreaks",
-      "phoneNumber": "555-555",
-      "contactName": "Joao",
-      "address": "rua teste",
-      "logo": "https://tecsys.com.br/assets/images/logo-verde-transparente.webp"
     }
   ],
   "products": [
