@@ -6,7 +6,7 @@
         "price": 192,
         "href": "#",
         "featured": true,
-        "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees.",
+        "details": "The 6-Pack includes two black.",
         "breadcrumbs": [
           { "id": 1, "name": "Men", "href": "#" },
           { "id": 2, "name": "Clothing", "href": "#" }
@@ -14,11 +14,11 @@
         "images": [
           {
             "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
-            "alt": "Two each of gray, white, and black shirts laying flat."
+            "alt": "Two each of gray, white."
           },
           {
             "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
-            "alt": "Model wearing plain black basic tee."
+            "alt": "Model wearing."
           },
           {
             "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg",
@@ -26,7 +26,7 @@
           },
           {
             "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-featured-product-shot.jpg",
-            "alt": "Model wearing plain white basic tee."
+            "alt": "Model wearing plain white."
           }
         ],
         "colors": [
@@ -44,20 +44,19 @@
           { "name": "2XL", "inStock": true },
           { "name": "3XL", "inStock": true }
         ],
-        "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options.",
+        "description": "The 6-Pack allows you to fully express your vibrant personality with three grayscale options.",
         "highlights": [
-          {"highlight": "Hand cut and sewn locally"}
-          {"highlight":"Pre-washed & pre-shrunk"},
+          {"highlight": "Hand cut and sewn locally"
           {"highlight":"Ultra-soft 100% cotton"}
         ]
       },
        {
           "id": 2,
-          "name": "Basic Tee 6-Pack",
+          "name":  6-Pack",
           "price": 182,
           "href": "#",
           "featured": true,
-          "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees.",
+          "details": "The 6-Pack includes two black.",
           "breadcrumbs": [
             { "id": 1, "name": "Men", "href": "#" },
             { "id": 2, "name": "Clothing", "href": "#" }
@@ -65,19 +64,19 @@
           "images": [
             {
               "src": "/camiseta-dowhile-2022.png",
-              "alt": "Two each of gray, white, and black shirts laying flat."
+              "alt": "Two each of gray, white."
             },
             {
               "src": "/moletom-java.png",
-              "alt": "Model wearing plain black basic tee."
+              "alt": "Model wearing."
             },
             {
               "src": "/moletom-ia-p-devs.png",
-              "alt": "Model wearing plain gray basic tee."
+              "alt": "Model wearing plain gray."
             },
             {
               "src": "/moletom-ai-side.png",
-              "alt": "Model wearing plain white basic tee."
+              "alt": "Model wearing plain white."
             }
           ],
           "colors": [
@@ -95,10 +94,9 @@
             { "name": "2XL", "inStock": true },
             { "name": "3XL", "inStock": true }
           ],
-          "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options.",
+          "description": "The 6-Pack allows you to fully express your vibrant personality with three grayscale options.",
           "highlights": [
             {"highlight": "Hand cut and sewn locally"},
-            {"highlight":"Pre-washed & pre-shrunk"},
             {"highlight":"Ultra-soft 100% cotton"}
           ]
         },
@@ -108,7 +106,7 @@
           "price": 172,
           "href": "#",
           "featured": true,
-          "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees.",
+          "details": "The 6-Pack includes two black.",
           "breadcrumbs": [
             { "id": 1, "name": "Men", "href": "#" },
             { "id": 2, "name": "Clothing", "href": "#" }
@@ -116,11 +114,11 @@
           "images": [
             {
               "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
-              "alt": "Two each of gray, white, and black shirts laying flat."
+              "alt": "Two each of gray, white."
             },
             {
               "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
-              "alt": "Model wearing plain black basic tee."
+              "alt": "Model wearing."
             },
             {
               "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg",
@@ -149,7 +147,6 @@
           "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options.",
           "highlights": [
             {"highlight": "Hand cut and sewn locally"},
-            {"highlight":"Pre-washed & pre-shrunk"},
             {"highlight":"Ultra-soft 100% cotton"}
           ]
         },
@@ -159,7 +156,7 @@
           "price": 162,
           "href": "#",
           "featured": false,
-          "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees.",
+          "details": "The 6-Pack includes two black.",
           "breadcrumbs": [
             { "id": 1, "name": "Men", "href": "#" },
             { "id": 2, "name": "Clothing", "href": "#" }
@@ -167,11 +164,11 @@
           "images": [
             {
               "src": "/camiseta-dowhile-2022.png",
-              "alt": "Two each of gray, white, and black shirts laying flat."
+              "alt": "Two each of gray, white."
             },
             {
               "src": "/moletom-java.png",
-              "alt": "Model wearing plain black basic tee."
+              "alt": "Model wearing."
             },
             {
               "src": "/moletom-ia-p-devs.png",
@@ -200,7 +197,6 @@
           "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options.",
           "highlights": [
             {"highlight": "Hand cut and sewn locally"},
-            {"highlight":"Pre-washed & pre-shrunk"},
             {"highlight":"Ultra-soft 100% cotton"}
           ]
         },
@@ -210,7 +206,7 @@
           "price": 152,
           "href": "#",
           "featured": false,
-          "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees.",
+          "details": "The 6-Pack includes two black.",
           "breadcrumbs": [
             { "id": 1, "name": "Men", "href": "#" },
             { "id": 2, "name": "Clothing", "href": "#" }
@@ -218,11 +214,11 @@
           "images": [
             {
               "src": "/camiseta-dowhile-2022.png",
-              "alt": "Two each of gray, white, and black shirts laying flat."
+              "alt": "Two each of gray, white."
             },
             {
               "src": "/moletom-java.png",
-              "alt": "Model wearing plain black basic tee."
+              "alt": "Model wearing."
             },
             {
               "src": "/moletom-ia-p-devs.png",
@@ -251,7 +247,6 @@
           "description": "The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options.",
           "highlights": [
             {"highlight": "Hand cut and sewn locally"},
-            {"highlight":"Pre-washed & pre-shrunk"},
             {"highlight":"Ultra-soft 100% cotton"}
           ]
         }
