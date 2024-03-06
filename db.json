@@ -1,5 +1,5 @@
 {
-    "newproducts": [
+        "newproducts": [
       {
         "id": 1,
         "name": "Basic Tee 6-Pack",
@@ -46,13 +46,13 @@
         ],
         "description": "The 6-Pack allows you to fully express your vibrant personality with three grayscale options.",
         "highlights": [
-          {"highlight": "Hand cut and sewn locally"
+          {"highlight": "Hand cut and sewn locally"},
           {"highlight":"Ultra-soft 100% cotton"}
         ]
       },
        {
           "id": 2,
-          "name":  "Basic Tee 6-Pack",
+          "name": "Basic Tee 6-Pack",
           "price": 182,
           "href": "#",
           "featured": true,
