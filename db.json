@@ -148,9 +148,11 @@
     ],
    "newproducts": [
       {
+        "id": 1,
         "name": "Basic Tee 6-Pack",
   "price": 192,
   "href": "#",
+        "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming Charcoal Gray limited release.",
   "breadcrumbs": [
     { "id": 1, "name": "Men", "href": "#" },
     { "id": 2, "name": "Clothing", "href": "#" }
@@ -194,8 +196,7 @@
     {"highlight":"Dyed with our proprietary colors"},
     {"highlight":"Pre-washed & pre-shrunk"},
     {"highlight":"Ultra-soft 100% cotton"}
-  ],
-  "details": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming Charcoal Gray limited release.",
+  ]
       }
     ],
   "profile": {
