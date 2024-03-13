@@ -7,7 +7,7 @@
   "href": "#",
   "featured": true,
   "details": "The 6-Pack includes two black.",
-  "slug": "product-page-02-secondary-product-shot",
+  "slug": "product-page-02-secondary-product-shot1",
   "breadcrumbs": [
     { "id": 1, "name": "Men", "href": "#" },
     { "id": 2, "name": "Clothing", "href": "#" }
@@ -109,7 +109,7 @@
     "href": "#",
     "featured": true,
     "details": "The 6-Pack includes two black.",
-   "slug": "product-page-02-secondary-product-shot",
+   "slug": "product-page-02-secondary-product-shot2",
     "breadcrumbs": [
       { "id": 1, "name": "Men", "href": "#" },
       { "id": 2, "name": "Clothing", "href": "#" }
@@ -160,7 +160,7 @@
     "href": "#",
     "featured": false,
     "details": "The 6-Pack includes two black.",
-    "slug": "camiseta-dowhile-2022",
+    "slug": "camiseta-dowhile-2022-2",
     "breadcrumbs": [
       { "id": 1, "name": "Men", "href": "#" },
       { "id": 2, "name": "Clothing", "href": "#" }
@@ -211,6 +211,7 @@
     "href": "#",
     "featured": false,
     "details": "The 6-Pack includes two black.",
+   "slug": "camiseta-dowhile-2022-3",
     "breadcrumbs": [
       { "id": 1, "name": "Men", "href": "#" },
       { "id": 2, "name": "Clothing", "href": "#" }
